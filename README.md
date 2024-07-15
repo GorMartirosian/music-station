@@ -1,2 +1,2 @@
 # music-station
-A free music site.
+Music site sample.

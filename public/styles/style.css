@@ -1,0 +1,23 @@
+.site-name {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+    height: 0; /* Adjust height as needed; vh stands for viewport height */
+}
+
+.navigation {
+    float: right;
+}
+
+.song-row {
+    display: flex; /* Use flexbox to arrange children in a row */
+    align-items: center; /* Align items vertically in the center */
+  }
+
+.song-inner-elm {
+    margin-right: 10px; 
+}
